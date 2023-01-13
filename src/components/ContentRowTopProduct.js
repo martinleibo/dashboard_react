@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import imagenFondo from '../assets/images/mandalorian.jpg';
-import GenresInDb from './GenresInDb';
+
 import ContentRowMovies from './ContentRowCards';
 
 

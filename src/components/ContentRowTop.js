@@ -1,6 +1,5 @@
 import React, {Component} from 'react';
 import imagenFondo from '../assets/images/mandalorian.jpg';
-import GenresInDb from './GenresInDb';
 import ContentRowCards from './ContentRowCards';
 
 
@@ -40,9 +39,9 @@ class ContentRowTop extends Component{
 						<h1 className="h3 mb-0 text-gray-800">Tostao Cafe - Dashboard del sitio web</h1>
 					</div>
 				
-					{/*<!-- Content Row Movies-->*/}
+					
 					<ContentRowCards />
-					{/*<!-- End movies in Data Base -->*/}
+					
 					
 	
 					
